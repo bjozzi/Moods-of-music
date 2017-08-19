@@ -1,0 +1,38 @@
+dataset/*
+
+Thumbs.db
+
+MillionSongSubset
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# NetBeans
+nbproject
+manifest.mf
+build.xml
+
+# eclipse specific git ignore
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+/target/
